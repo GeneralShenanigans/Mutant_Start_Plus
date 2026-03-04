@@ -538,7 +538,8 @@
 	  "HISS",
 	  "SNARL",
 	  "CROAK",
-	  "SHOUT1"
+	  "SHOUT1",
+	  "PAINREC1"
     ],
     "requirement": "achievement_reach_lab_finale",
     "reveal_locale": false,
@@ -802,7 +803,8 @@
 	  "HISS",
 	  "SNARL",
 	  "CROAK",
-	  "SHOUT1"
+	  "SHOUT1",
+	  "PAINREC1"
     ],
     "reveal_locale": false,
     "flags": [ "LONE_START" ]
